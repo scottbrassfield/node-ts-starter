@@ -1,7 +1,7 @@
 {
-  "name": "reviewsly",
+  "name": "node-ts-starter",
   "version": "1.0.0",
-  "description": "A tool for finding those pesky positive reviews",
+  "description": "Boilerplate for setting up a basic node/typescript app",
   "main": "src/index.js",
   "scripts": {
     "build": "tsc",

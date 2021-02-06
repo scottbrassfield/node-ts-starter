@@ -1,3 +1,3 @@
-## Reviewsly
+## Node typescript starter
 
-A tool for finding those pesky positive reviews
+A boilerplate for a basic node/typescript app. Includes basic configuration for Eslint, Prettier, and Jest
